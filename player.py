@@ -7,7 +7,7 @@ class Player:
 		self.longest_road = None
 		self.score = 0
 		self.dev_cards = DevCardHand()
-		self.resources = ResourcesHand()
+		self.resources = ResourceHand()
 
 
 
